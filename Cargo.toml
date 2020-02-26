@@ -7,7 +7,7 @@ description = "一个简单的库演示"
 license = "MIT"
 keywords = ["demo", "rlib"]
 readme = "README.md"
-documentation = "本库是一些演示简单计算的函数集合。"
+documentation = "https://github.com/luoxiangyong/gprl_lib_demo"
 
 
 
