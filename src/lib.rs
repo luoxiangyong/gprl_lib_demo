@@ -10,6 +10,7 @@
 
 extern crate test;
 
+#[allow(unused_imports)]
 use test::Bencher;
 
 
